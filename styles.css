@@ -1,0 +1,23 @@
+
+body{
+  /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+  font-family: 'Roboto Condensed';font-size: 22px;
+  /* background-image: linear-gradient(to right, rgb(22, 134, 199), rgb(65, 194, 233)); */
+}
+
+h2{
+  text-align: center;
+}
+
+div{
+  width: 100px;
+  height: 100px;
+  display:inline-block;
+}
+
+#box1{
+  background-color: blue;
+}
+#box2{
+  background-color: aqua;
+}
